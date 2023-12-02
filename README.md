@@ -3,10 +3,10 @@
 
 Calculadora de Áreas de Formas Geométricas
 
-Projeto construido HTML, CSS e majoritariamente JavaScript como parte de um exercicio durante o curso do Proa. Permite calcular a área de diferentes formas geométricas. 
+Este projeto é parte de um exercicio realizado durante o curso do Proa. Construido com HTML, CSS e majoritariamente JavaScript, permite calcular a área de diferentes formas geométricas. 
 O projeto usa JavaScript para coletar e processar os dados inseridos e manipula a pagina para exibir os resultados.
 
-O projeto suporta o calculo das seguintes formas geométricas:
+O projeto suporta o calculo de área das seguintes formas geométricas:
 
 Círculo;
 Tronco da pirâmide;
